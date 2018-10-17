@@ -15,12 +15,12 @@
                 </div>
                 <div class="form-group">
                     <label for="email">Email address</label>
-                    <input name="email" type="email" class="form-control" id="email" placeholder="E-mail">
+                    <input name="email" type="email" class="form-control" id="Email" placeholder="E-mail">
                 </div>
 
                 <div class="form-group">
                     <label for="body">Message</label>
-                    <textarea name="body" class="form-control" id="body" rows="3"></textarea>
+                    <textarea name="body" class="form-control" id="body" rows="3" placeholder="Write your message here"></textarea>
                 </div>
                 <button type="submit" class="btn btn-primary mb-2">Submit</button>
             </form>
